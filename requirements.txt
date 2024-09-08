@@ -1,0 +1,11 @@
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+aiohttp
+html2text
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+psycopg2-binary
